@@ -1,4 +1,15 @@
-## Hi there 👋
+# HELLO!
+
+I'm **Alya** Fairuz Cahyarani
+
+I'm currently studying Geophysics at Gadjah Mada University
+
+I'm Intrested in learning about Petroleum system and computational system
+
+thats all n have a nice day to learn new things!
+
+
+
 
 <!--
 **Alyafairuz/Alyafairuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
